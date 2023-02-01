@@ -1,2 +1,2 @@
-# mule-checin-api
+# mule-checkin-api
 MulesoftPRD
