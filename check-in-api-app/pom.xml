@@ -9,7 +9,7 @@
 		<relativePath>../parent-pom/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.mycompany</groupId>
+	<groupId>469bfb10-3957-4c5e-a4cd-feabde75d9db</groupId>
 	<artifactId>check-in-api-app</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
