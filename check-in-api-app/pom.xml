@@ -11,7 +11,7 @@
 
 	<groupId>469bfb10-3957-4c5e-a4cd-feabde75d9db</groupId>
 	<artifactId>check-in-api-app</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
 	<name>check-in-api-app</name>
