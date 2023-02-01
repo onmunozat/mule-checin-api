@@ -144,4 +144,4 @@ jobs:
         AUTHOR: "Omar Munoz"
       run: |
         artifactName=$(ls *.jar | head -1)
-        mvn deploy --file check-in-api-app/pom.xml -DmuleDeploy -Dapi.id=18462680 -Dap.client_id=b5f62486495647588bd85ec74f7cc9f5 -Dap.client_secret=be77e41e251444EC8cC8888B1A7231B2
+        mvn deploy --file check-in-api-app/pom.xml -DmuleDeploy -Dapi.id=18462680 -Dap.client_id=${{ secrets.AP_CLIENT_ID }} -Dap.client_secret=${{ secrets.AP_CLIENT_SECRET }}
